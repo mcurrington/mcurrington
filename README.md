@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mcurrington
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in (https://github.com/mcurrington?tab=following)[https://github.com/mcurrington?tab=following]
+- 🌱 I’m always learning. 
 
 
 <!---
