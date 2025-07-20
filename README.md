@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcurrington
-- 👀 I’m interested in (https://github.com/mcurrington?tab=following)[https://github.com/mcurrington?tab=following]
+- 👀 I’m interested in [https://github.com/mcurrington?tab=following]
 - 🌱 I’m always learning. 
 
 
